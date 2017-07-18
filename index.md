@@ -3,6 +3,8 @@
 
 The ninth Gene Golub SIAM Summer School will take place
 in Breckenridge, Colorado, USA in June 2018.
+
+### School's highlights
   
 The summer school aims to introduce graduate students to the mathematical and 
 computational aspects of inverse problems, particularly modern developments that 
@@ -19,13 +21,17 @@ building on several of the deterministic tools. The concepts introduced in the m
 reinforced and put into practice in afternoon hands-on laboratory sessions using open-source software 
 ([hIPPYlib](https://hippylib.github.io), [MUQ](http://muq.mit.edu/)) implementing state-of-the-art deterministic and Bayesian inversion methods.
 Students will work together on projects that will be presented on the last day of the school.
-  
-The summer school is being organized by [Omar Ghattas](http://users.ices.utexas.edu/~omar/) (The 
-University of Texas at Austin), [Youssef Marzouk](http://aeroastro.mit.edu/faculty-research/faculty-list/youssef-m-marzouk) (MIT),
-[Matthew Parno](http://mparno.mit.edu/) (US Army Corps of Engineers), [Noemi Petra](http://faculty.ucmerced.edu/npetra/) (University of 
-California, Merced), [Georg Stadler](http://math.nyu.edu/~stadler/index.html) (New York University), and 
-[Umberto Villa](http://users.ices.utexas.edu/~uvilla/) (The University of Texas at Austin).
 
+### Organizers and instructors
+
+- [Omar Ghattas](http://users.ices.utexas.edu/~omar/) (The University of Texas at Austin)
+- [Youssef Marzouk](http://aeroastro.mit.edu/faculty-research/faculty-list/youssef-m-marzouk) (MIT)
+- [Matthew Parno](http://mparno.mit.edu/) (US Army Corps of Engineers)
+- [Noemi Petra](http://faculty.ucmerced.edu/npetra/) (University of California, Merced)
+- [Georg Stadler](http://math.nyu.edu/~stadler/index.html) (New York University)
+- [Umberto Villa](http://users.ices.utexas.edu/~uvilla/) (The University of Texas at Austin)
+
+### Informations
 Applicants selected to participate pay no registration fee. Funding 
 for local accommodations and meal expenses will be available for 
 all participants.
