@@ -1,5 +1,5 @@
 
-# Inverse Problems: Systematic Integration of Data with Models under Uncertainty
+## Inverse Problems: Systematic Integration of Data with Models under Uncertainty
 
 The ninth Gene Golub SIAM Summer School will take place
 in Breckenridge, Colorado, USA in June 2018.
@@ -36,4 +36,4 @@ Applicants selected to participate pay no registration fee. Funding
 for local accommodations and meal expenses will be available for 
 all participants.
 
-More details regarding topics of the school, the avenue, and the application process will be soon avaialable at this website.
+More details regarding topics of the school, the avenue, and the application process will be soon available at this website.
