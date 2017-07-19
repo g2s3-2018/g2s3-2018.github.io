@@ -2,3 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
+
+.page-header a {
+  color: $header-heading-color;
+  text-decoration: none;
+  &:hover {
+    text-decoration: underline;
+  }
+}
