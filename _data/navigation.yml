@@ -3,3 +3,15 @@ docs:
 
 - title: Home
   url: index.html
+ 
+- title: Syllabus
+  url: syllabus.html
+  
+- title: Applications
+  url: applications.html
+  
+- title: Schedule
+  url: schedule.html
+
+- title: Travel
+  url: travel.html
