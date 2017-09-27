@@ -1,3 +1,9 @@
+---
+title: Home
+layout: default
+---
+## Accomodation
+
 Students and lecturers will be hosted in the [DoubleTree by Hilton](http://doubletree3.hilton.com/en/hotels/colorado/doubletree-by-hilton-hotel-breckenridge-QKBVRDT/index.html) hotel,
 Students will be accomodated in a spatious double-occupancy room with two king beds.
 

@@ -1,4 +1,7 @@
-
+---
+title: Home
+layout: default
+---
 ## Inverse Problems: Systematic Integration of Data with Models under Uncertainty
 
 The ninth Gene Golub SIAM Summer School will take place **June 17--30, 2018**
