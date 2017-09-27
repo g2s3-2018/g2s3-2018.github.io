@@ -24,7 +24,8 @@ The summer school will culminate with presentations of projects the students hav
 2. Introduction to FEniCS (weak forms, solving PDEs via FEniCS)
 3. Variational calculus problems via hiPPYlib
 4. Solving inverse problems via hIPPYlib
-5. Simple examples in Bayesian computation and Monte Carlo methods 6. Linear Bayesian inversion via MUQ–hIPPYlib
+5. Simple examples in Bayesian computation and Monte Carlo methods
+6. Linear Bayesian inversion via MUQ–hIPPYlib
 7. MCMC methods via MUQ–hIPPYlib
 8. Project work
 9. Project work
