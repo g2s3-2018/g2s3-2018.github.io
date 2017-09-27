@@ -4,14 +4,11 @@ docs:
 - title: Home
   url: index.html
  
-- title: Syllabus
-  url: syllabus.html
+- title: Topics
+  url: topics.html
   
 - title: Applications
   url: applications.html
   
-- title: Schedule
-  url: schedule.html
-
-- title: Travel
-  url: travel.html
+- title: Accomodation
+  url: accomodation.html
