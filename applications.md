@@ -11,6 +11,14 @@ The summer school is intended for PhD (and appropriate MS) students in mathemati
 ### Important dates
 The deadline for applications is February 1, 2018.
 
+### Application material
+
+- A cover letter describing your relevant experience and your motivation to participate in the G2S3 2018 (2 pages max.)
+- A short CV (2 pages max.)
+- A transcript containing relevant classes you attended (only course titles and grades)
+- If needed, an application for financial support of travel costs (see below)
+- One letter of recommendation from your advisor (to be submitted directly from the advisor)
+
 ### Financial support
 Thanks to the generous sponsorship from SIAM, applicants selected to participate pay no registration fee. Funding for local accommodations and meal expenses will be covered for all participants.
 
