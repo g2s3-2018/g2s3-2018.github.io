@@ -41,4 +41,4 @@ all participants.
 
 More details regarding topics of the school, the avenue, and the application process will be soon available at this website.
 
-![Aspen_Stand_Woodcut_by_Leon Loughridge](images/AspenStand.jpg "Aspen Stand woodcut by Leon Loughridge")
+->![Aspen_Stand_Woodcut_by_Leon Loughridge](images/AspenStand.jpg "Aspen Stand woodcut by Leon Loughridge")<-
