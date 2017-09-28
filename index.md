@@ -34,11 +34,8 @@ Students will work together on projects that will be presented on the last day o
 - [Georg Stadler](http://math.nyu.edu/~stadler/index.html) (New York University)
 - [Umberto Villa](http://users.ices.utexas.edu/~uvilla/) (The University of Texas at Austin)
 
-### Informations
-Applicants selected to participate pay no registration fee. Funding 
-for local accommodations and meal expenses will be available for 
-all participants.
 
-More details regarding topics of the school, the avenue, and the application process will be soon available at this website.
+### Questions
+Questions concerning the summer school can be addressed to [info@g2s3.com](mailto:info@g2s3.com)
 
 ![Aspen_Stand_Woodcut_by_Leon Loughridge](images/AspenStand.jpg?style=centerme "Aspen Stand woodcut by Leon Loughridge")
