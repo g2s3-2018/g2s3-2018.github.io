@@ -3,8 +3,6 @@
 
 @import "{{ site.theme }}";
 
-$section-headings-color: #498ee4;
-
 .page-header {
   color: $header-heading-color;
   text-align: center;
@@ -38,7 +36,7 @@ $section-headings-color: #498ee4;
 .project-tagline {
   margin-bottom: 2rem;
   font-weight: normal;
-  color: $section-headings-color;
+  color: $header-heading-color;
 
   @include large {
     font-size: 1.25rem;
