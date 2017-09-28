@@ -22,4 +22,5 @@ to Breckenridge will be arranged through the hotel’s partner, Colorado Mountai
 
 The secluded mountain environment will provide a relaxed and inspiring atmosphere that we believe will be highly conducive to learning,
 exchange of ideas, and collaboration, and stimulate students’ creativity as they work on projects.
+
 ![alt text](images/DoubleTree_Exterior_Summer.png "The DoubleTree Breckenridge in the summer")
