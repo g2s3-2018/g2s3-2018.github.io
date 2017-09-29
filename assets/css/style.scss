@@ -16,7 +16,7 @@ $section-headings-color: #51422c;
   background-position: center; 
 
   @include large {
-    padding: 5rem 6rem;
+    padding: 3rem 6rem;
   }
 
   @include medium {
@@ -69,10 +69,7 @@ $base-font-size: 16px !default;
 $background-color: #fdfdfd !default;
 $grey-color: #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
-
 $spacing-unit: 30px !default;
-
-
 
 .site-nav {
   float: left;
