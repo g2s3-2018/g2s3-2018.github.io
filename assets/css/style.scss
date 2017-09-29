@@ -1,6 +1,9 @@
 ---
 ---
 
+$header-bg-color: #51422c;
+$section-headings-color: #51422c;
+
 @import "{{ site.theme }}";
 
 .page-header {
@@ -25,18 +28,28 @@
   }
 }
 
+
 .page-header a {
   color: $header-heading-color;
   text-decoration: none;
+  padding: 0 1rem;
   &:hover {
     text-decoration: underline;
+     @include large {
+    	background-color: $header-bg-color;
+    	}
+	 @include medium {
+    	background-color: $header-bg-color;
+    	}
   }
 }
 
+
 .project-tagline {
   margin-bottom: 2rem;
-  font-weight: normal;
+  font-weight: bold;
   color: $header-heading-color;
+  opacity: 1.0;
 
   @include large {
     font-size: 1.25rem;
@@ -53,13 +66,10 @@
 
 $base-line-height: 1.5 !default;
 $base-font-size: 16px !default;
-$text-color: $section-headings-color !default;
 $on-palm: 600px !default;
-$on-laptop: 800px !default;
 $background-color: #fdfdfd !default;
 $grey-color: #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
-$grey-color-dark: darken($grey-color, 25%) !default;
 
 $spacing-unit: 30px !default;
 
@@ -70,16 +80,10 @@ $spacing-unit: 30px !default;
   }
 }
 
-@mixin is-laptop($device) {
-  @media screen and (min-device-width: $device) {
-    @content;
-  }
-}
-
 .site-nav {
   float: left;
   line-height: $base-line-height * $base-font-size * 1.25;
-  background-color: $header-heading-color;
+  font-weight: bold;
   
   .nav-trigger {
       display: none;
@@ -90,22 +94,29 @@ $spacing-unit: 30px !default;
   }
 
   .page-link {
-    color: $text-color;
+    color: $header-heading-color;
     line-height: $base-line-height;
+    text-align: center;
 
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
       margin-right: 20px;
     }
 }
-  @include is-laptop($on-laptop) {
+
+  @include large {
+      width: 100%;
+      margin: 0 auto;
+  }
+  
+  @include medium {
       width: 100%;
       margin: 0 auto;
   }
 
-  @include media-query($on-palm) {
+  @include small {
     position: absolute;
-    top: 9px;
+    top: 8px;
     right: $spacing-unit / 2;
     background-color: $background-color;
     border: 1px solid $grey-color-light;
@@ -131,7 +142,7 @@ $spacing-unit: 30px !default;
       text-align: center;
 
       > svg path {
-        fill: $grey-color-dark;
+        fill: $section-headings-color;
       }
     }
 
@@ -148,6 +159,8 @@ $spacing-unit: 30px !default;
     .page-link {
       display: block;
       padding: 5px 10px;
+      color: $section-headings-color;
+      text-align: right;
 
       &:not(:last-child) {
         margin-right: 0;
