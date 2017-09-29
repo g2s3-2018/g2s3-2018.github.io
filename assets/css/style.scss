@@ -71,7 +71,8 @@ $spacing-unit: 30px !default;
 .site-nav {
   float: left;
   line-height: $base-line-height * $base-font-size * 1.25;
-  margin: auto;
+  width: 100%;
+  margin: 0 auto;
   background-color: $header-heading-color;
 
   .nav-trigger {
