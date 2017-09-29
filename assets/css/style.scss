@@ -94,6 +94,7 @@ $spacing-unit: 30px !default;
 }
 
   @include media-query($on-palm) {
+    width: auto;
     position: absolute;
     top: 9px;
     right: $spacing-unit / 2;
