@@ -63,8 +63,15 @@ $grey-color-dark: darken($grey-color, 25%) !default;
 
 $spacing-unit: 30px !default;
 
+
 @mixin media-query($device) {
   @media screen and (max-width: $device) {
+    @content;
+  }
+}
+
+@mixin is-laptop($device) {
+  @media screen and (min-device-width: $device) {
     @content;
   }
 }
@@ -91,9 +98,8 @@ $spacing-unit: 30px !default;
       margin-right: 20px;
     }
 }
-  @include media-query($on-laptop)
-  {
-      width: auto;
+  @include is-laptop($on-laptop) {
+      width: 100%;
       margin: 0 auto;
   }
 
