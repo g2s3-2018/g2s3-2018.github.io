@@ -66,7 +66,6 @@ $section-headings-color: #51422c;
 
 $base-line-height: 1.5 !default;
 $base-font-size: 16px !default;
-$on-palm: 600px !default;
 $background-color: #fdfdfd !default;
 $grey-color: #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
@@ -74,11 +73,6 @@ $grey-color-light: lighten($grey-color, 40%) !default;
 $spacing-unit: 30px !default;
 
 
-@mixin media-query($device) {
-  @media screen and (max-width: $device) {
-    @content;
-  }
-}
 
 .site-nav {
   float: left;
