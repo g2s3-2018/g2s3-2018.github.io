@@ -13,15 +13,16 @@ The summer school is intended for PhD (and appropriate MS) students in mathemati
 ### Important dates
 The deadline for applications is February 1, 2018.
 
-### Application material
-<!--- TODO: Add fillable coverpage to download --->
-- A letter of interest describing your relevant experience and your motivation to participate in the G2S3 2018 (2 pages max.)
-- A short CV (2 pages max.)
-- A transcript containing relevant classes you attended (only course titles and grades)
-- If needed, an application for financial support of travel costs (see below)
+### Application process
+To apply, please send the following documents --- all written in English and combined into a single PDF file --- to the e-mail address `applications_are_not_open_yet` 
+1. A filled application form
+2. A letter of interest describing your relevant experience and your motivation to participate in the G2S3 2018 (2 pages max.)
+3. A short CV
+4. A transcript containing relevant classes you attended (only course titles and grades)
+<!--- 5. If needed, an application for financial support of travel costs (see below) --->
+Please use the following subject line for your e-mail: `G2S3 Application: Applicant Last Name, Applicant First Name`.
 
-<!--- To apply send an e-mail with single PDF file containg the above information and subject line : Application: FirstName LastName--->
-- One letter of recommendation from your advisor (to be submitted directly from the advisor)
+In addition, **a letter of recommendation** should be sent directly from your adviser to `applications_are_not_open_yet` with subject line `G2S3 Reference: Applicant Last Name, Applicant First Name`.
 <!--- Advisors will send e-mail with subject line Recommendation: FirstName LastName--->
 
 ### Financial support
