@@ -20,10 +20,10 @@ To apply, please send the following documents --- all written in English and com
 3. A short CV
 4. A transcript containing relevant classes you attended (only course titles and grades)
 <!--- 5. If needed, an application for financial support of travel costs (see below) --->
-Please use the following subject line for your e-mail: `G2S3 Application: Applicant Last Name, Applicant First Name`.
+
+Please use the following subject line in your e-mail: `G2S3 Application: Applicant Last Name, Applicant First Name`.
 
 In addition, **a letter of recommendation** should be sent directly from your adviser to `applications_are_not_open_yet` with subject line `G2S3 Reference: Applicant Last Name, Applicant First Name`.
-<!--- Advisors will send e-mail with subject line Recommendation: FirstName LastName--->
 
 ### Financial support
 Thanks to the generous sponsorship from SIAM, applicants selected to participate pay no registration fee. Funding for local accommodations and meal expenses will be covered for all participants.
