@@ -6,7 +6,7 @@ layout: default
 ## Applications
 The summer school is intended for PhD (and appropriate MS) students in mathematics, computer science, statistics, engineering, and science fields who wish to learn about inverse problems. No background in inverse problems will be assumed, but students should have knowledge of numerical linear algebra, PDEs, and probability & statistics at the level of a first graduate (or upper-level undergraduate) course.
 
-<!--- TODO: Add a diversity/inclusion statement --->
+It is part of our mission to increase diversity in the Computational Sciences. We therefore particularly encourage female students and students from under-represented minorities to apply, as well as students from smaller institutions.
 
 ### Applications are not open yet
 
