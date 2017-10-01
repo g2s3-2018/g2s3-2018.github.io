@@ -16,7 +16,7 @@ The deadline for applications is February 1, 2018.
 ### Application material
 <!--- TODO: Add fillable coverpage to download --->
 - A letter of interest describing your relevant experience and your motivation to participate in the G2S3 2018 (2 pages max.)
-- A short CV
+- A short CV (2 pages max.)
 - A transcript containing relevant classes you attended (only course titles and grades)
 - If needed, an application for financial support of travel costs (see below)
 
