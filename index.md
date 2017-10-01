@@ -16,12 +16,12 @@ of Bayesian inference. The target audience is PhD and appropriate MS students in
 mathematics and related fields such as computer science, statistics, engineering, and 
 science.
 
-The central question we address is: How do we learn from data through the lens of models? The 
+The 
 summer school will feature an integrated and coherent presentation that begins with ill-posedness 
 and regularization, develops the ideas and tools for deterministic inversion via nonlinear least squares 
 optimization, and elaborates formulations and solution methods for the modern Bayesian perspective, 
 building on several of the deterministic tools. The concepts introduced in the morning lectures will be 
-reinforced and put into practice in afternoon hands-on laboratory sessions using open-source software 
+put into practice in afternoon hands-on laboratory sessions using open-source software 
 ([hIPPYlib](https://hippylib.github.io), [MUQ](http://muq.mit.edu/)) implementing state-of-the-art deterministic and Bayesian inversion methods.
 Students will work together on projects that will be presented on the last day of the school.
 
