@@ -6,9 +6,10 @@ docs:
  
 - title: Topics
   url: topics.html
-  
+ 
+- title: Location
+  url: accomodation.html
+ 
 - title: Application
   url: applications.html
-  
-- title: Accomodation
-  url: accomodation.html
+
