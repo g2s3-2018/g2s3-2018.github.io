@@ -4,7 +4,7 @@ layout: default
 ---
 ## Topics
 
-The set of topics comprises an integrated and coherent presentation that starts with ill-posedness and regularization, develops mathematical and computational tools for sensitivity analysis and deterministic inversion via nonlinear least squares optimization, and elaborates a framework for formulation and solution of Bayesian inverse problems, building on several of the deterministic tools.
+The set of topics comprises an integrated and coherent presentation that starts with ill-posedness and regularization, develops mathematical and computational tools for sensitivity analysis and deterministic inversion for problems governed by differential equations via nonlinear least squares optimization, and elaborates a framework for formulation and solution of Bayesian inverse problems, building on several of the deterministic tools.
 
 Morning lectures will be followed by hands-on afternoon lab sessions, where students will employ the methods presented in the lectures using state-of-the-art software and explore issues more deeply.
 
