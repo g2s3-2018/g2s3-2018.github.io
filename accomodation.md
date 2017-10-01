@@ -17,7 +17,7 @@ Breckenridge, Colorado, 80424, US
 TEL: +1-970-547-5550
 ```
 
-Breckenridge is conveniently reached (95 minutes) from Denver International Airport. Shuttle transportation from Denver Airport
+Breckenridge, surrouned by the Rocky Mountains, is conveniently reached (95 minutes) from Denver International Airport. Shuttle transportation from Denver Airport
 to Breckenridge will be arranged through the hotel’s partner, Colorado Mountain Express.
 
 The secluded mountain environment will provide a relaxed and inspiring atmosphere that we believe will be highly conducive to learning,
