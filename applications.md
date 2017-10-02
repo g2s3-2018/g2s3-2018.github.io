@@ -19,7 +19,7 @@ To apply, please send the following documents --- all written in English and com
 
 Please use the following subject line in your e-mail: `G2S3 Application: Applicant Last Name, Applicant First Name`.
 
-In addition, **a letter of recommendation** should be sent directly from your adviser to `applications_are_not_open_yet` with subject line `G2S3 Reference: Applicant Last Name, Applicant First Name`.
+In addition, **a letter of recommendation** should be sent directly from your adviser to [application@g2s3.com](mailto:application@g2s3.com) with subject line `G2S3 Reference: Applicant Last Name, Applicant First Name`.
 
 **The deadline for applications is February 1, 2018.**
 
