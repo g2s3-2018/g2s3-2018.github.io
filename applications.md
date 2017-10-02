@@ -21,7 +21,7 @@ In addition, **a letter of recommendation** should be sent directly from your ad
 
 **The deadline for applications is February 1, 2018.**
 
-Selected candidates will be notified by e-mail in mid March, 2018.
+Selected applicants will be notified by e-mail in mid March, 2018.
 
 ### Financial support
 Thanks to the generous sponsorship from SIAM, applicants selected to participate pay no registration fee. Funding for local accommodations and meal expenses will be covered for all participants.
