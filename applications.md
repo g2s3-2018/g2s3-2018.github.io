@@ -14,12 +14,11 @@ It is part of our mission to increase diversity in the Computational Sciences. W
 The deadline for applications is February 1, 2018.
 
 ### Application process
-To apply, please send the following documents --- all written in English and combined into a single PDF file --- to the e-mail address `applications_are_not_open_yet` 
+To apply, please send the following documents --- all written in English and combined into a single PDF file --- to the e-mail address [application@g2s3.com](mailto:application@g2s3.com) 
 1. A filled application form
 2. A letter of interest describing your relevant experience and your motivation to participate in the G2S3 2018 (2 pages max.)
 3. A short CV
 4. A transcript containing relevant classes you attended (only course titles and grades)
-<!--- 5. If needed, an application for financial support of travel costs (see below) --->
 
 Please use the following subject line in your e-mail: `G2S3 Application: Applicant Last Name, Applicant First Name`.
 
