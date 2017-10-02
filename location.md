@@ -4,7 +4,7 @@ layout: default
 ---
 ## Location and Accomodation
 
-The secluded mountain environment in Breckenridge will provide a relaxed and inspiring atmosphere. The area provides opportunities for walks and hikes, and also offers restaurants and bars. The atmosphere will be highly conducive to learning,
+The secluded mountain environment in [Breckenridge](https://en.wikipedia.org/wiki/Breckenridge,_Colorado) will provide a relaxed and inspiring atmosphere. The area provides opportunities for walks and hikes, and also offers restaurants and bars. The atmosphere will be highly conducive to learning,
 exchange of ideas, and collaboration.
 
 Breckenridge is conveniently reached (95 minutes) from Denver International Airport. Shuttle transportation from Denver Airport
