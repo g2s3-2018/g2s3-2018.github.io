@@ -10,9 +10,6 @@ It is part of our mission to increase diversity in the Computational Sciences. W
 
 ### Applications are not open yet
 
-### Important dates
-The deadline for applications is February 1, 2018.
-
 ### Application process
 To apply, please send the following documents --- all written in English and combined into a single PDF file --- to the e-mail address [application@g2s3.com](mailto:application@g2s3.com) 
 1. A filled application form ([Download PDF form](files/g2s3_studentform.pdf))
@@ -23,6 +20,8 @@ To apply, please send the following documents --- all written in English and com
 Please use the following subject line in your e-mail: `G2S3 Application: Applicant Last Name, Applicant First Name`.
 
 In addition, **a letter of recommendation** should be sent directly from your adviser to `applications_are_not_open_yet` with subject line `G2S3 Reference: Applicant Last Name, Applicant First Name`.
+
+**The deadline for applications is February 1, 2018.**
 
 ### Financial support
 Thanks to the generous sponsorship from SIAM, applicants selected to participate pay no registration fee. Funding for local accommodations and meal expenses will be covered for all participants.
