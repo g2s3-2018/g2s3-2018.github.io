@@ -6,8 +6,6 @@ layout: default
 
 The ninth Gene Golub SIAM Summer School will take place **June 17--30, 2018**
 at the DoubleTree by Hilton hotel in Breckenridge, Colorado, USA.
-
-### School's highlights
   
 The summer school aims to introduce graduate students to the mathematical and 
 computational aspects of inverse problems, particularly modern developments that 
@@ -18,8 +16,8 @@ science.
 
 The 
 summer school will feature an integrated and coherent presentation that begins with ill-posedness 
-and regularization, develops the ideas and tools for deterministic inversion via nonlinear least squares 
-optimization, and elaborates formulations and solution methods for the modern Bayesian perspective, 
+and regularization, develops the ideas and tools for deterministic inversion via numerical optimization,
+and elaborates formulations and solution methods for the modern Bayesian perspective, 
 building on several of the deterministic tools. The concepts introduced in the morning lectures will be 
 put into practice in afternoon hands-on laboratory sessions using open-source software 
 ([hIPPYlib](https://hippylib.github.io), [MUQ](http://muq.mit.edu/)) implementing state-of-the-art deterministic and Bayesian inversion methods.
