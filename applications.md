@@ -3,12 +3,10 @@ title: Applications
 layout: default
 ---
 
-## Applications
+## Applications are not open yet
 The summer school is intended for PhD (and appropriate MS) students in mathematics, computer science, statistics, engineering, and science fields who wish to learn about inverse problems. No background in inverse problems will be assumed, but students should have knowledge of numerical linear algebra, PDEs, and probability & statistics at the level of a first graduate (or upper-level undergraduate) course.
 
 It is part of our mission to increase diversity in the Computational Sciences. We therefore particularly encourage female students and students from under-represented minorities to apply, as well as students from smaller institutions.
-
-### Applications are not open yet
 
 ### Application process
 To apply, please send the following documents --- all written in English and combined into a single PDF file --- to the e-mail address [application@g2s3.com](mailto:application@g2s3.com) 
@@ -22,6 +20,8 @@ Please use the following subject line in your e-mail: `G2S3 Application: Applica
 In addition, **a letter of recommendation** should be sent directly from your adviser to [application@g2s3.com](mailto:application@g2s3.com) with subject line `G2S3 Reference: Applicant Last Name, Applicant First Name`.
 
 **The deadline for applications is February 1, 2018.**
+
+Selected candidates will be notified by e-mail in mid March, 2018.
 
 ### Financial support
 Thanks to the generous sponsorship from SIAM, applicants selected to participate pay no registration fee. Funding for local accommodations and meal expenses will be covered for all participants.
