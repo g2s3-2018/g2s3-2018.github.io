@@ -28,8 +28,8 @@
   \TextField[width=10cm,backgroundcolor=.9 .9
     1]{School/University Name, Country: \hfill}
   \\ \\
-  Program: \hfill Ph.D.\CheckBox[width=1em]{ } \qquad
-  Master\CheckBox[width=1em]{ } \\\\
+  Program: \hfill Ph.D.\CheckBox[width=1em,name=Phd]{ } \qquad
+  Master\CheckBox[width=1em, name=Master]{ } \\\\
   \TextField[width=10cm,backgroundcolor=.9
     .9 1]{Area of research/study: \hfill}
   \\ \\
@@ -40,11 +40,11 @@
   \\ \\
   \TextField[width=10cm,backgroundcolor=.9 .9
     1]{Citizenship (because of travel visas): \hfill} \\ \\
-  Do you need a visa to enter the US? \hfill No\CheckBox[width=1em]{ } \qquad
-  Yes\CheckBox[width=1em]{ } \\\\
+  Do you need a visa to enter the US? \hfill No\CheckBox[width=1em, name=no_visa]{ } \qquad
+  Yes\CheckBox[width=1em, name=yes_visa]{ } \\\\
   Do you require
-  financial travel support? \hfill No\CheckBox[width=1em]{ } \qquad
-  Yes\CheckBox[width=1em]{ } \\\\
+  financial travel support? \hfill No\CheckBox[width=1em, name=no_supp]{ } \qquad
+  Yes\CheckBox[width=1em, name=yes_supp]{ } \\\\
 \end{tabular}
 \end{Form}
 \pagestyle{empty}
