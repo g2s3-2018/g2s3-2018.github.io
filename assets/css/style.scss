@@ -46,21 +46,23 @@ $section-headings-color: #51422c;
 
 
 .project-tagline {
-  margin-bottom: 2rem;
   font-weight: bold;
   color: $header-heading-color;
   opacity: 1.0;
 
   @include large {
     font-size: 1.25rem;
+    margin-bottom: 2rem;
   }
 
   @include medium {
     font-size: 1.15rem;
+    margin-bottom: 1.5rem;
   }
 
   @include small {
     font-size: 1rem;
+    margin-bottom: 0.5rem;
   }
 }
 
