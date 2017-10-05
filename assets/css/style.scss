@@ -16,15 +16,15 @@ $section-headings-color: #51422c;
   background-position: center; 
 
   @include large {
-    padding: 3rem 6rem;
+    padding: 2rem 6rem 3rem;
   }
 
   @include medium {
-    padding: 3rem 4rem;
+    padding: 2rem 4rem 3rem;
   }
 
   @include small {
-    padding: 2rem 1rem;
+    padding: 2.1rem 1rem 1rem;
   }
 }
 
