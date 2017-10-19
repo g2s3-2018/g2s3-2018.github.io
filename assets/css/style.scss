@@ -50,11 +50,11 @@ $section-headings-color: #51422c;
   margin-bottom: 0.1rem;
 
   @include large {
-    font-size: 3.0rem;
+    font-size: 2.4rem;
   }
 
   @include medium {
-    font-size: 2.0rem;
+    font-size: 1.8rem;
   }
 
   @include small {
@@ -69,12 +69,12 @@ $section-headings-color: #51422c;
   opacity: 1.0;
 
   @include large {
-    font-size: 1.25rem;
+    font-size: 1.6rem;
     margin-bottom: 2rem;
   }
 
   @include medium {
-    font-size: 1.15rem;
+    font-size: 1.3rem;
     margin-bottom: 1.5rem;
   }
 
@@ -184,4 +184,46 @@ $spacing-unit: 30px !default;
 img[src$="centerme"] {
   display:block;
   margin: 0 auto;
+}
+
+img[src$="g2s3logo"] {
+  display:block;
+  max-width: 200px;
+  margin: 0 auto;
+}
+
+.footerLeftCol
+{
+ @include large{
+    width: 200px;
+    float:left;
+    }
+    
+  @include medium{
+    width: 150px;
+    float:left;
+    }
+    
+  @include small{
+    width: 100%;
+    float:left;
+    }
+}
+
+.footerRightCol
+{
+ @include large
+ {
+    width: 600px;
+    float:right;
+    }
+    
+ @include medium{
+    width: 600px;
+    float:right;
+    }
+  @include small{
+    width: 100%;
+    float:left;
+    }
 }
