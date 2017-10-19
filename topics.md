@@ -33,3 +33,7 @@ The summer school will culminate with presentations of projects the students hav
 7. MCMC methods via MUQ–hIPPYlib
 8. Project work
 9. Project work
+
+![antarctica](images/antarctica.png)
+
+*__Left__: Satellite observations of surface ice flow velocity used to solve Antarctic ice sheet inverse problem, along with a model of ice flow as a non-Newtonian fluid. __Right__: Inferred basal friction parameter field (warm colors imply low resistance to sliding at base of ice sheet)*
