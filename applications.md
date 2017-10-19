@@ -4,29 +4,29 @@ layout: default
 ---
 
 ## Applications are not open yet
-The summer school is intended for PhD (and appropriate MS) students in mathematics, computer science, statistics, engineering, and science fields who wish to learn about inverse problems. No background in inverse problems will be assumed, but students should have knowledge of numerical linear algebra, PDEs, and probability & statistics at the level of a first graduate (or upper-level undergraduate) course.
+The summer school is intended for PhD (and appropriate MS) students in mathematics, computer science, statistics, engineering, and science fields who wish to learn about state of the art methods for inverse problems. No background in inverse problems will be assumed, but students should have knowledge of numerical linear algebra, PDEs, and probability & statistics at the level of a first graduate (or upper-level undergraduate) course.
 
-It is part of our mission to increase diversity in the Computational Sciences. We therefore particularly encourage female students and students from under-represented minorities to apply, as well as students from smaller institutions.
+Part of our mission is to increase diversity in the fields of applied mathematics and computational science & engineering. We therefore particularly encourage female students and students from under-represented minority groups to apply, as well as students from smaller institutions.
 
 ### Application process
-To apply, please send the following documents --- all written in English and combined into a single PDF file --- to the e-mail address [application@g2s3.com](mailto:application@g2s3.com) 
+To apply, please send the following documents --- all written in English and combined into a single PDF file --- to the e-mail address [application@g2s3.com](mailto:application@g2s3.com).
 1. A filled application form ([Download PDF form](files/g2s3_studentform.pdf))
-2. A letter of interest describing your relevant experience and your motivation to participate in the G2S3 2018 (2 pages max.)
-3. A short CV
-4. A transcript containing relevant classes you attended (only course titles and grades)
+2. A letter of interest describing your relevant experience and motivation for participation in the 2018  G2S3 (2 pages maximum)
+3. A curriculum vitae
+4. A transcript listing titles of relevant courses you completed and grades received.
 
 Please use the following subject line in your e-mail: `G2S3 Application: Applicant Last Name, Applicant First Name`.
 
-In addition, **a letter of recommendation** should be sent directly from your adviser to [application@g2s3.com](mailto:application@g2s3.com) with subject line `G2S3 Reference: Applicant Last Name, Applicant First Name`.
+In addition, **a letter of recommendation** should be sent directly from your advisor to [application@g2s3.com](mailto:application@g2s3.com) with subject line `G2S3 Reference: Applicant Last Name, Applicant First Name`.
 
 **The deadline for applications is February 1, 2018.**
 
 Selected applicants will be notified by e-mail in mid March, 2018.
 
 ### Financial support
-Thanks to the generous sponsorship from SIAM, applicants selected to participate pay no registration fee. Funding for local accommodations and meal expenses will be covered for all participants.
+Thanks to the generous sponsorship from SIAM, applicants selected to participate pay no registration fee, and costs of local accommodation and meals  will be covered for all participants.
 
-In addition, we will be able to offer (at least partial) travel support upon request. A request of funding will not influence the decision on admission to the school.
+In addition, we will be able to offer (at least partial) travel support upon request. A request for funding will not influence the decision on acceptance to the school.
 
 ### Questions
 Questions concerning the application process (or the school in general) can be addressed to [info@g2s3.com](mailto:info@g2s3.com)
