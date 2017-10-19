@@ -3,6 +3,8 @@
 
 $header-bg-color: #51422c;
 $section-headings-color: #51422c;
+$large-breakpoint: 64em;
+$medium-breakpoint: 48em;
 
 @import "{{ site.theme }}";
 
@@ -188,7 +190,18 @@ img[src$="centerme"] {
 
 img[src$="g2s3logo"] {
   display:block;
-  max-width: 200px;
+  @include large
+  {
+    width: 200px;
+  }
+  @include medium
+  {
+    width: 150px;
+  }
+  @include small
+  {
+    width: 250px;
+  }
   margin: 0 auto;
 }
 
@@ -219,7 +232,7 @@ img[src$="g2s3logo"] {
     }
     
  @include medium{
-    width: 600px;
+    width: 550px;
     float:right;
     }
   @include small{
