@@ -9,15 +9,15 @@ The summer school is intended for PhD (and appropriate MS) students in mathemati
 Part of our mission is to increase diversity in the fields of applied mathematics and computational science & engineering. We therefore particularly encourage female students and students from under-represented minority groups to apply, as well as students from smaller institutions.
 
 ### Application process
-To apply, please send the following documents --- all written in English and combined into a single PDF file --- to the e-mail address [application@g2s3.com](mailto:application@g2s3.com).
+
+<!--- Applications are being accepted via Mathprograms.org (search under "Brown University"). --->
+Applications will be accepted via [*Mathprograms.org*](https://mathprograms.org) (search under UC Merced).
+To apply, the following documents --- all written in English  --- are required.
 1. A filled application form ([Download PDF form](files/g2s3_studentform.pdf))
 2. A letter of interest describing your relevant experience and motivation for participation in the 2018  G2S3 (2 pages maximum)
 3. A curriculum vitae
 4. A transcript listing titles of relevant courses you completed and grades received.
-
-Please use the following subject line in your e-mail: `G2S3 Application: Applicant Last Name, Applicant First Name`.
-
-In addition, **a letter of recommendation** should be sent directly from your advisor to [application@g2s3.com](mailto:application@g2s3.com) with subject line `G2S3 Reference: Applicant Last Name, Applicant First Name`.
+5. **a letter of recommendation**, to be submitted from your advisor through *Mathprograms.org*.
 
 **The deadline for applications is February 1, 2018.**
 
