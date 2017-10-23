@@ -17,7 +17,7 @@ To apply, the following documents --- all written in English  --- are required.
 2. A letter of interest describing your relevant experience and motivation for participation in the 2018  G2S3 (2 pages maximum)
 3. A curriculum vitae
 4. A transcript listing titles of relevant courses you completed and grades received.
-5. **a letter of recommendation**, to be submitted from your advisor through *Mathprograms.org*.
+5. **A letter of recommendation**, to be submitted directly from your advisor through *Mathprograms.org*.
 
 **The deadline for applications is February 1, 2018.**
 
