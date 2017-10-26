@@ -11,13 +11,13 @@ Part of our mission is to increase diversity in the fields of applied mathematic
 ### Application process
 
 <!--- Applications are being accepted via Mathprograms.org (search under "Brown University"). --->
-Applications will be accepted via [*Mathprograms.org*](https://mathprograms.org) (search under UC Merced).
+Applications will be accepted via [*Mathprograms.org*](https://mathprograms.org).
 To apply, the following documents --- all written in English  --- are required.
-1. A filled application form ([Download PDF form](files/g2s3_studentform.pdf))
-2. A letter of interest describing your relevant experience and motivation for participation in the 2018  G2S3 (2 pages maximum)
-3. A curriculum vitae
-4. A transcript listing titles of relevant courses you completed and grades received.
-5. **A letter of recommendation**, to be submitted directly from your advisor through *Mathprograms.org*.
+<!--- 1. A filled application form ([Download PDF form](files/g2s3_studentform.pdf)) --->
+1. A letter of interest describing your relevant experience and motivation for participation in the 2018  G2S3 (2 pages maximum)
+2. A curriculum vitae
+3. A transcript listing titles of graduate courses you completed and grades received.
+4. **A letter of recommendation**, to be submitted directly from your advisor through *Mathprograms.org*.
 
 **The deadline for applications is February 1, 2018.**
 
