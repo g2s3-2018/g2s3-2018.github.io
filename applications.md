@@ -11,7 +11,7 @@ Part of our mission is to increase diversity in the fields of applied mathematic
 ### Application process
 
 <!--- Applications are being accepted via Mathprograms.org (search under "Brown University"). --->
-Applications are being accepted via [*Mathprograms.org*](https://www.mathprograms.org/db/programs/608) (search post #608).
+Applications are being accepted via [*Mathprograms.org*](https://www.mathprograms.org/db/programs/608).
 To apply, the following documents --- all written in English  --- are required.
 <!--- 1. A filled application form ([Download PDF form](files/g2s3_studentform.pdf)) --->
 1. A letter of interest describing your relevant experience and motivation for participation in the 2018  G2S3 (2 pages maximum)
