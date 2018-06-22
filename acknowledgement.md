@@ -3,6 +3,8 @@ Title: Acknowledgement
 layout: default
 ---
 
+## Acknowledgement
+
 The 2018 Gene Golub Summer School on *Inverse Problems: Systematic Integration of Data with Models under Uncertainty* is sponsored by SIAM through an endowment from the estate of Gene Golub.
 For more information about prior summer schools and Professor Gene Golub go to [SIAM G2S3](http://www.siam.org/students/g2s3/).
 
