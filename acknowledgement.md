@@ -10,8 +10,9 @@ We would also like to acknowledge:
 
 - The National Science Fundation (NSF), Division Of Mathematical Sciences (DMS), for providing additional funds to support the participation to the school of US-based PhD students through grant DMS-1834756.
 
-- The Extreme Science and Engineering Discovery Environment (XSEDE), which is supported by National Science Foundation grant number ACI-1548562, for providing the cloud computing resources (Jetstream) for the
-hands on laboratory sessions of the school through allocation TG-DMS180009.
+- The Extreme Science and Engineering Discovery Environment (XSEDE), which is supported by National Science Foundation grant number ACI-1548562, for providing the cloud computing resources (Jetstream) for the hands on laboratory sessions of the school through allocation TG-DMS180009.
+
+- The National Science Fundation (NSF), Office of Advanced Cyberinfrastructure (OAC), for supporting the development and integration of the MUQ/hIPPYlib software used in the summer school through grants ACI-1550487, ACI-1550547, and ACI-1550593.
 
 <center><img src="images/SIAM_co-branded-logo-300_square.png" alt="SIAM Logo" height="100px"/>
 <img src="images/NSF_4-Color_bitmap_Logo.png" alt="NSF Logo" height="100px"/>
