@@ -13,6 +13,6 @@ We would also like to acknowledge:
 - The Extreme Science and Engineering Discovery Environment (XSEDE), which is supported by National Science Foundation grant number ACI-1548562, for providing the cloud computing resources (Jetstream) for the
 hands on laboratory sessions of the school through allocation TG-DMS180009.
 
-<img src="images/SIAM_co-branded-logo-300_square.png" alt="SIAM Logo" height="100px"/>
+<center><img src="images/SIAM_co-branded-logo-300_square.png" alt="SIAM Logo" height="100px"/>
 <img src="images/NSF_4-Color_bitmap_Logo.png" alt="NSF Logo" height="100px"/>
-<img src="images/xsede-full-color.png" alt="XSEDE Logo" height="100px"/>
+<img src="images/xsede-full-color.png" alt="XSEDE Logo" height="100px"/></center>
