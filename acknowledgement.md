@@ -18,6 +18,8 @@ We would also like to acknowledge:
 
 - The National Science Fundation (NSF), Office of Advanced Cyberinfrastructure (OAC), for supporting the development and integration of the MUQ/hIPPYlib software used in the summer school through grants ACI-1550487, ACI-1550547, and ACI-1550593.
 
+- The National Science Fundation (NSF), Division Of Mathematical Sciences (DMS), CAREER award number 1654311 (N. Petra)
+
 <center><img src="images/SIAM_co-branded-logo-300_square.png" alt="SIAM Logo" height="100px"/>
 <img src="images/NSF_4-Color_bitmap_Logo.png" alt="NSF Logo" height="100px"/>
 <img src="images/xsede-full-color.png" alt="XSEDE Logo" height="100px"/></center>
