@@ -20,6 +20,8 @@ We would also like to acknowledge:
 
 - The National Science Fundation (NSF), Division Of Mathematical Sciences (DMS), CAREER award number 1654311 (N. Petra)
 
+- The National Science Fundation (NSF), Division Of Mathematical Sciences (DMS), *Computational and Data-Enabled Science and Engineering in Mathematical and Statistical Sciences  (CDS&E-MSS)* award number 1723211 (G. Stadler)
+
 <center><img src="images/SIAM_co-branded-logo-300_square.png" alt="SIAM Logo" height="100px"/>
 <img src="images/NSF_4-Color_bitmap_Logo.png" alt="NSF Logo" height="100px"/>
 <img src="images/xsede-full-color.png" alt="XSEDE Logo" height="100px"/></center>
